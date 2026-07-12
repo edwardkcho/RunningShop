@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edcho/C/code/RunningShop/RunningShop/RunningShop.csproj",
+      "projectUniqueName": "/Users/edcho/C/code/RunningShop/RunningShop/RunningShop/RunningShop.csproj",
       "projectName": "RunningShop",
-      "projectPath": "/Users/edcho/C/code/RunningShop/RunningShop/RunningShop.csproj",
+      "projectPath": "/Users/edcho/C/code/RunningShop/RunningShop/RunningShop/RunningShop.csproj",
       "packagesPath": "/Users/edcho/.nuget/packages/",
-      "outputPath": "/Users/edcho/C/code/RunningShop/RunningShop/obj/",
+      "outputPath": "/Users/edcho/C/code/RunningShop/RunningShop/RunningShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/edcho/.nuget/NuGet/NuGet.Config"
