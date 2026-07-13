@@ -1,0 +1,10 @@
+# ignores all temp files
+temp/
+
+.DS_Store
+
+RunningShop/.idea/
+
+RunningShop/RunningShop/bin/
+
+RunningShop/RunningShop/obj/
