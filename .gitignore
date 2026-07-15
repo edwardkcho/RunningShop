@@ -8,3 +8,5 @@ RunningShop/.idea/
 RunningShop/RunningShop/bin/
 
 RunningShop/RunningShop/obj/
+
+*.info
